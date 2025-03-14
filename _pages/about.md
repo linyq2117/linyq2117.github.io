@@ -22,16 +22,11 @@ I am currently a 4th-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang
 My current research interest focuses on MultiModal Foundation Models and their Applications. The best way to reach me is through my email linyq5566@gmail.com.
 
 
-{% # 🔥 News %}
-{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
-{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # 📝 Publications 
 
 [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://opening-benchmark.github.io/)
-
 Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, **Yuqi Lin**, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
-
 **CVPR 2025**
 
 
