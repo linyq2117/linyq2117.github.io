@@ -17,42 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a 4th-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Xiaofei He](https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN) and [Deng Cai](https://scholar.google.com/citations?user=vzxDyJoAAAAJ&hl=zh-CN). I received my bachelor’s degree in Computer Science and Technology at Jilin University in 2021. I undertook an internship at Shanghai AI Lab in 2023, supervised by Dr. [Kaipeng Zhang](https://scholar.google.com/citations?user=4OqZBmYAAAAJ&hl=zh-CN&oi=ao).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interest focuses on MultiModal Foundation Models and their Applications. The best way to reach me is through my email linyq5566@gmail.com.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% # 🔥 News %}
+{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
+{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://opening-benchmark.github.io/)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, **Yuqi Lin**, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**CVPR 2025**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+[SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement](https://openreview.net/forum?id=JlDx2xp01W)
+
+**Yuqi Lin**, Hengjia Li, Wenqi Shao, Zheng Yang†, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang†
+
+**ICLR 2025**
+
+
+
+
+[ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models](https://arxiv.org/pdf/2403.20194)
+
+Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, **Yuqi Lin**, Tianle Zhang, Chuanhao Li, Yu Qiao, Ping Luo, Wenqi Shao†, Kaipeng Zhang†
+
+**NeurIPS 2024**
+
+
+
+[Towards Implicit Prompt For Text-To-Image Models](https://arxiv.org/abs/2403.02118)
+
+Yue Yang, **Yuqi Lin**, Hong Liu, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wang, Yu Qiao, Kaipeng Zhang† and Ping Luo†
+
+**ICML 2024**
+
+
+
+
+[MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/pdf/2404.16006)
+
+Kaining Ying*, Fanqing Meng*, Jin Wang*, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, **Yuqi Lin**, Shuo Liu, Jiayi Lei, Quanfeng Lu, Cunjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang† and Wenqi Shao†
+
+**ICML 2024**
+
+
+
+
+[Few-shot Hybrid Domain Adaptation of Image Generators](https://arxiv.org/abs/2310.19378)
+
+Hengjia Li, Yang Liu, Linxuan Xia, **Yuqi Lin**, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He
+
+**ICLR 2024**
+
+
+
+[TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training](https://ojs.aaai.org/index.php/AAAI/article/view/28139)
+
+**Yuqi Lin**, Minghao Chen†, Kaipeng Zhang†, Hengjia Li, Mingming Li, Zheng Yang, Dongqin Lv, Binbin Lin, Haifeng Liu, Deng Cai
+
+**AAAI 2024**
+
+
+
+
+[CLIP Is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.html))
+
+**Yuqi Lin**, Minghao Chen*†, Wenxiao Wang, Boxi Wu, Ke Li, Binbin Lin, Haifeng Liu, Xiaofei He
+
+**CVPR 2023**
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - now*, Ph.D., at State Key Lab of CAD&CG, Computer Science and Technology, Zhejiang University. 
+- *2017.09 - 2021.06*, Undergraduate, Tang Aoqing Honors Program (Computer Science and Technology), Jilin University.
