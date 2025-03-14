@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuqi Lin"
-description              : "HomePage "
+description              : # "HomePage "
 repository               : "linyq2117/linyq2117.github.io"
 google_scholar_stats_use_cdn : true
 
