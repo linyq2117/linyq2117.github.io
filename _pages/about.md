@@ -27,7 +27,7 @@ My current research interest focuses on MultiModal Foundation Models and their A
 
 [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://opening-benchmark.github.io/)
 
-Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, <u>Yuqi Lin</u>, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
+Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, <span style="text-decoration: underline; font-weight: bold;">Yuqi Lin</span>, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
 
 **CVPR 2025**
 
