@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 4th-year Ph.D. student at the State Key Lab of CAD$&$CG, Zhejiang University, under the supervision of Prof. [Xiaofei He](https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN) and [Deng Cai](https://scholar.google.com/citations?user=vzxDyJoAAAAJ&hl=zh-CN). I received my bachelor’s degree in Computer Science and Technology at Jilin University in 2021. I undertook an internship at Shanghai AI Lab in 2023, supervised by Dr. [Kaipeng Zhang](https://scholar.google.com/citations?user=4OqZBmYAAAAJ&hl=zh-CN&oi=ao).
+I am currently a 4th-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Xiaofei He](https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN) and [Deng Cai](https://scholar.google.com/citations?user=vzxDyJoAAAAJ&hl=zh-CN). I received my bachelor’s degree in Computer Science and Technology at Jilin University in 2021. I undertook an internship at Shanghai AI Lab in 2023, supervised by Dr. [Kaipeng Zhang](https://scholar.google.com/citations?user=4OqZBmYAAAAJ&hl=zh-CN&oi=ao).
 
 My current research interest focuses on MultiModal Foundation Models and their Applications. The best way to reach me is through my email linyq5566@gmail.com.
 
@@ -110,5 +110,10 @@ Hengjia Li, Yang Liu, Linxuan Xia, **<u>Yuqi Lin</u>**, Tu Zheng, Zheng Yang, We
 
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D., State Key Lab of CAD$&$CG, Computer Science and Technology, Zhejiang University. 
+- *2021.09 - now*, Ph.D., State Key Lab of CAD&CG, Computer Science and Technology, Zhejiang University. 
 - *2017.09 - 2021.06*, Undergraduate, Tang Aoqing Honors Program (Computer Science and Technology), Jilin University.
+
+<br>
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
