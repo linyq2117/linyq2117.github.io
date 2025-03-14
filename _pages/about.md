@@ -27,7 +27,7 @@ My current research interest focuses on MultiModal Foundation Models and their A
 
 [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://opening-benchmark.github.io/)
 
-Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, <span style="text-decoration: underline; font-weight: bold;">Yuqi Lin</span>, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
+Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, **<u>Yuqi Lin</u>**, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
 
 **CVPR 2025**
 
@@ -48,7 +48,7 @@ Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Z
 
 [ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models](https://arxiv.org/pdf/2403.20194)
 
-Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, <u>**Yuqi Lin**</u>, Tianle Zhang, Chuanhao Li, Yu Qiao, Ping Luo, Wenqi Shao†, Kaipeng Zhang†
+Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, **<u>Yuqi Lin</u>**, Tianle Zhang, Chuanhao Li, Yu Qiao, Ping Luo, Wenqi Shao†, Kaipeng Zhang†
 
 **NeurIPS 2024**
 
@@ -58,7 +58,7 @@ Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, <u>**Yuqi Lin**</u>, Tianle Zhang, 
 
 [Towards Implicit Prompt For Text-To-Image Models](https://arxiv.org/abs/2403.02118)
 
-Yue Yang, <u>**Yuqi Lin**</u>, Hong Liu, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wang, Yu Qiao, Kaipeng Zhang† and Ping Luo†
+Yue Yang, **<u>Yuqi Lin</u>**, Hong Liu, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wang, Yu Qiao, Kaipeng Zhang† and Ping Luo†
 
 **ICML 2024**
 
@@ -69,7 +69,7 @@ Yue Yang, <u>**Yuqi Lin**</u>, Hong Liu, Wenqi Shao, Runjian Chen, Hailong Shang
 
 [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/pdf/2404.16006)
 
-Kaining Ying*, Fanqing Meng*, Jin Wang*, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, <u>**Yuqi Lin**</u>, Shuo Liu, Jiayi Lei, Quanfeng Lu, Cunjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang† and Wenqi Shao†
+Kaining Ying*, Fanqing Meng*, Jin Wang*, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, **<u>Yuqi Lin</u>**, Shuo Liu, Jiayi Lei, Quanfeng Lu, Cunjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang† and Wenqi Shao†
 
 **ICML 2024**
 
@@ -80,7 +80,7 @@ Kaining Ying*, Fanqing Meng*, Jin Wang*, Zhiqian Li, Han Lin, Yue Yang, Hao Zhan
 
 [Few-shot Hybrid Domain Adaptation of Image Generators](https://arxiv.org/abs/2310.19378)
 
-Hengjia Li, Yang Liu, Linxuan Xia, <u>**Yuqi Lin**</u>, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He
+Hengjia Li, Yang Liu, Linxuan Xia, **<u>Yuqi Lin</u>**, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He
 
 **ICLR 2024**
 
@@ -90,7 +90,7 @@ Hengjia Li, Yang Liu, Linxuan Xia, <u>**Yuqi Lin**</u>, Tu Zheng, Zheng Yang, We
 
 [TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training](https://ojs.aaai.org/index.php/AAAI/article/view/28139)
 
-<u>**Yuqi Lin**</u>, Minghao Chen†, Kaipeng Zhang†, Hengjia Li, Mingming Li, Zheng Yang, Dongqin Lv, Binbin Lin, Haifeng Liu, Deng Cai
+**<u>Yuqi Lin</u>**, Minghao Chen†, Kaipeng Zhang†, Hengjia Li, Mingming Li, Zheng Yang, Dongqin Lv, Binbin Lin, Haifeng Liu, Deng Cai
 
 **AAAI 2024**
 
@@ -101,7 +101,7 @@ Hengjia Li, Yang Liu, Linxuan Xia, <u>**Yuqi Lin**</u>, Tu Zheng, Zheng Yang, We
 
 [CLIP Is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.html))
 
-<u>**Yuqi Lin**</u>, Minghao Chen*†, Wenxiao Wang, Boxi Wu, Ke Li, Binbin Lin, Haifeng Liu, Xiaofei He
+**<u>Yuqi Lin</u>**, Minghao Chen*†, Wenxiao Wang, Boxi Wu, Ke Li, Binbin Lin, Haifeng Liu, Xiaofei He
 
 **CVPR 2023**
 
