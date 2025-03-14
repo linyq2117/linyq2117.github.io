@@ -26,10 +26,13 @@ My current research interest focuses on MultiModal Foundation Models and their A
 # 📝 Publications 
 
 [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://opening-benchmark.github.io/)
+
 Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, **Yuqi Lin**, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
+
 **CVPR 2025**
 
-
+<br>
+<br>
 
 
 [SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement](https://openreview.net/forum?id=JlDx2xp01W)
@@ -38,6 +41,8 @@ Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Z
 
 **ICLR 2025**
 
+<br>
+<br>
 
 
 
@@ -47,6 +52,8 @@ Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, **Yuqi Lin**, Tianle Zhang, Chuanha
 
 **NeurIPS 2024**
 
+<br>
+<br>
 
 
 [Towards Implicit Prompt For Text-To-Image Models](https://arxiv.org/abs/2403.02118)
@@ -55,6 +62,8 @@ Yue Yang, **Yuqi Lin**, Hong Liu, Wenqi Shao, Runjian Chen, Hailong Shang, Yu Wa
 
 **ICML 2024**
 
+<br>
+<br>
 
 
 
@@ -64,6 +73,8 @@ Kaining Ying*, Fanqing Meng*, Jin Wang*, Zhiqian Li, Han Lin, Yue Yang, Hao Zhan
 
 **ICML 2024**
 
+<br>
+<br>
 
 
 
@@ -73,6 +84,8 @@ Hengjia Li, Yang Liu, Linxuan Xia, **Yuqi Lin**, Tu Zheng, Zheng Yang, Wenxiao W
 
 **ICLR 2024**
 
+<br>
+<br>
 
 
 [TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training](https://ojs.aaai.org/index.php/AAAI/article/view/28139)
@@ -81,6 +94,8 @@ Hengjia Li, Yang Liu, Linxuan Xia, **Yuqi Lin**, Tu Zheng, Zheng Yang, Wenxiao W
 
 **AAAI 2024**
 
+<br>
+<br>
 
 
 
@@ -90,6 +105,8 @@ Hengjia Li, Yang Liu, Linxuan Xia, **Yuqi Lin**, Tu Zheng, Zheng Yang, Wenxiao W
 
 **CVPR 2023**
 
+<br>
+<br>
 
 
 # 📖 Educations
