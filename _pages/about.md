@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 4th-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Xiaofei He](https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN) and [Deng Cai](https://scholar.google.com/citations?user=vzxDyJoAAAAJ&hl=zh-CN). I received my bachelor’s degree in Computer Science and Technology at Jilin University in 2021. I undertook an internship at Shanghai AI Lab in 2023, supervised by Dr. [Kaipeng Zhang](https://scholar.google.com/citations?user=4OqZBmYAAAAJ&hl=zh-CN&oi=ao).
+I am currently a 4th-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. [Xiaofei He](https://scholar.google.com/citations?user=QLLFowsAAAAJ&hl=zh-CN) and [Deng Cai](https://scholar.google.com/citations?user=vzxDyJoAAAAJ&hl=zh-CN). I received my bachelor’s degree in Computer Science and Technology at Jilin University in 2021. I undertook an internship at Shanghai AI Lab in 2023, supervised by Dr. [Kaipeng Zhang](https://scholar.google.com/citations?user=4OqZBmYAAAAJ&hl=zh-CN&oi=ao). I am currently interning in the trading algorithm team at Xiaohongshu, focusing on trading search ranking algorithms.
 
-My current research interest focuses on MultiModal Foundation Models and their Applications. The best way to reach me is through my email linyq5566@gmail.com.
+My current research interest focuses on MultiModal Foundation Models and their Applications, as well as Search and Recommendation Algorithms. The best way to reach me is through my email linyq5566@gmail.com.
 
 
 
@@ -29,7 +29,7 @@ My current research interest focuses on MultiModal Foundation Models and their A
 
 Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, **<u>Yuqi Lin</u>**, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Ping Luo, Kaipeng Zhang†
 
-**CVPR 2025**
+**CVPR 2025 (Oral)**
 
 <br>
 <br>
@@ -50,7 +50,7 @@ Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Z
 
 Shuo Liu, Kaining Ying, Hao Zhang, Yue Yang, **<u>Yuqi Lin</u>**, Tianle Zhang, Chuanhao Li, Yu Qiao, Ping Luo, Wenqi Shao†, Kaipeng Zhang†
 
-**NeurIPS 2024**
+**NeurIPS 2024 (Spotlight)**
 
 <br>
 <br>
